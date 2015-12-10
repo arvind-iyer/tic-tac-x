@@ -1,0 +1,9 @@
+{
+  "firebase": "polymer-tac-X",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
